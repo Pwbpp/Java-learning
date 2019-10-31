@@ -12,4 +12,7 @@ test03
 &emsp;demo3 构造函数理解  
 test04  
 &emsp;demo1 多线程中main先于其他线程执行  
-&emsp;demo2 新线程创建的过程不会阻塞主线程的后续执行
+&emsp;demo2 新线程创建的过程不会阻塞主线程的后续执行  
+&emsp;demo3 周期执行线程池  
+test05
+&emsp;demo1 
