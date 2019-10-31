@@ -17,7 +17,7 @@ public class demo3 {
 		  
 		executor = Executors.newScheduledThreadPool(10);  
 		ScheduledExecutorService scheduler = (ScheduledExecutorService) executor;  
-		scheduler.scheduleAtFixedRate(task, 10, 10, TimeUnit.SECONDS);  
+		scheduler.scheduleAtFixedRate(task, 10, 10, TimeUnit.SECONDS);  //执行task,首次执行时间为10,执行周期为10,时间单位为秒。
 		
 	}
 }
