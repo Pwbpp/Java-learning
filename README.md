@@ -1,8 +1,10 @@
 # Java-learning
 
-test01------外部类（集合类）+ 内部类（迭代器类）  
-test02------demo1 String常用方法使用  
-            demo2 二维数组输出技巧  
+test01  
+&emsp;外部类（集合类）+ 内部类（迭代器类）  
+test02  
+&emsp;demo1 String常用方法使用  
+&emsp;demo2 二维数组输出技巧  
             demo3 Arrays.fill方法使用  
 test03------demo1 冒泡排序算法  
             demo2 直接选择排序算法  
