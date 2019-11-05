@@ -14,5 +14,8 @@ test04
 &emsp;demo1 多线程中main先于其他线程执行  
 &emsp;demo2 新线程创建的过程不会阻塞主线程的后续执行  
 &emsp;demo3 周期执行线程池  
-test05
-&emsp;demo1 
+test05  
+&emsp;demo1 IO的inputStream对指定文件做读操作的基本使用  
+&emsp;demo2 IO的oututStream对指定文件做写操作的基本使用  
+test06  
+&emsp;demo1
